@@ -1,6 +1,6 @@
 # Alzheimer's Detection
 
-I am currently building and researching different deep neural network architectures to predict Alzheimer's from Brain MRI's. The best model that I developed currently has a 98.74% accuracy which as far as I know is the best result on the dataset.
+I am currently building and researching different deep neural network architectures to predict Alzheimer's from Brain MRI's. The best model that I developed currently has a 98.74% accuracy which as far as I know is the best result on the dataset. However, I have not used graph neural networks, multi-kernel methods, and layer skipping yet which could yield better results.
 
 Examples of MRI images are below:
 
